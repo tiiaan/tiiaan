@@ -12,10 +12,10 @@
     <lastBuildDate>Sun, 31 Oct 2021 13:58:19 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/categories/%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>分块三对角线性方程组数值解</title>
-      <link>https://wonghaotian.com/tridiag/</link>
+      <link>https://wonghaotian.com/post/tridiag/</link>
       <pubDate>Sun, 31 Oct 2021 13:58:19 +0800</pubDate>
       
-      <guid>https://wonghaotian.com/tridiag/</guid>
+      <guid>https://wonghaotian.com/post/tridiag/</guid>
       <description>五点差分格式离散泊松方程得到的系数矩阵通常具有分块三对角结构，可以用分块循环约化算法求解</description>
     </item>
     
