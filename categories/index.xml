@@ -8,16 +8,6 @@
       <url>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Oct 2021 13:58:19 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>数值计算</title>
-      <link>https://wonghaotian.com/categories/%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97/</link>
-      <pubDate>Sun, 31 Oct 2021 13:58:19 +0800</pubDate>
-      
-      <guid>https://wonghaotian.com/categories/%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://wonghaotian.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,25 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wonghaotian.com/categories/</loc>
-    <lastmod>2021-10-31T13:58:19+08:00</lastmod>
-  </url><url>
-    <loc>https://wonghaotian.com/post/</loc>
-    <lastmod>2021-10-31T13:58:19+08:00</lastmod>
-  </url><url>
-    <loc>https://wonghaotian.com/</loc>
-    <lastmod>2021-10-31T13:58:19+08:00</lastmod>
-  </url><url>
-    <loc>https://wonghaotian.com/post/tridiag/</loc>
-    <lastmod>2021-10-31T13:58:19+08:00</lastmod>
-  </url><url>
-    <loc>https://wonghaotian.com/categories/%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97/</loc>
-    <lastmod>2021-10-31T13:58:19+08:00</lastmod>
-  </url><url>
     <loc>https://wonghaotian.com/archives/</loc>
+  </url><url>
+    <loc>https://wonghaotian.com/categories/</loc>
   </url><url>
     <loc>https://wonghaotian.com/search/</loc>
   </url><url>
     <loc>https://wonghaotian.com/tags/</loc>
+  </url><url>
+    <loc>https://wonghaotian.com/</loc>
   </url>
 </urlset>

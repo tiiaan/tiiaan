@@ -8,17 +8,7 @@
       <url>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Oct 2021 13:58:19 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>分块三对角线性方程组数值解</title>
-      <link>https://wonghaotian.com/post/tridiag/</link>
-      <pubDate>Sun, 31 Oct 2021 13:58:19 +0800</pubDate>
-      
-      <guid>https://wonghaotian.com/post/tridiag/</guid>
-      <description>五点差分格式离散泊松方程得到的系数矩阵通常具有分块三对角结构，可以用分块循环约化算法求解</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://wonghaotian.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
