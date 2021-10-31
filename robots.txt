@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wonghaotian.com/sitemap.xml
