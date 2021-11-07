@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wonghaotian.com/post/hello/</loc>
-    <lastmod>2021-11-03T21:16:00+08:00</lastmod>
-  </url><url>
-    <loc>https://wonghaotian.com/post/</loc>
-    <lastmod>2021-11-03T21:16:00+08:00</lastmod>
-  </url><url>
-    <loc>https://wonghaotian.com/</loc>
-    <lastmod>2021-11-03T21:16:00+08:00</lastmod>
-  </url><url>
     <loc>https://wonghaotian.com/archives/</loc>
   </url><url>
     <loc>https://wonghaotian.com/categories/</loc>
@@ -18,5 +9,7 @@
     <loc>https://wonghaotian.com/search/</loc>
   </url><url>
     <loc>https://wonghaotian.com/tags/</loc>
+  </url><url>
+    <loc>https://wonghaotian.com/</loc>
   </url>
 </urlset>
