@@ -11,7 +11,7 @@
 <meta name=google-site-verification content="XYZabc">
 <meta name=yandex-verification content="XYZabc">
 <meta name=msvalidate.01 content="XYZabc">
-<link crossorigin=anonymous href=/assets/css/stylesheet.min.6a07b84d28a431c0d866d1a1f9ee7673f6246bded29c7d2edc235b3c09d7a6fd.css integrity="sha256-age4TSikMcDYZtGh+e52c/Yka97SnH0u3CNbPAnXpv0=" rel="preload stylesheet" as=style>
+<link crossorigin=anonymous href=/assets/css/stylesheet.min.fba8a836ca7857a018287e43c477bbf79d225c77b7a37628a9b264e6def9bf96.css integrity="sha256-+6ioNsp4V6AYKH5DxHe7950iXHe3o3YoqbJk5t75v5Y=" rel="preload stylesheet" as=style>
 <link rel=icon href=https://wonghaotian.com/images/72431352.jpeg>
 <link rel=icon type=image/png sizes=16x16 href=https://wonghaotian.com/images/72431352.jpeg>
 <link rel=icon type=image/png sizes=32x32 href=https://wonghaotian.com/images/72431352.jpeg>
@@ -81,6 +81,11 @@
 </header>
 </main>
 <footer class=footer>
+<div>
+<span id=timeDate>载入天数...</span>
+<span id=times>载入时分秒...</span>
+<script>var now=new Date;function createtime(){var a=new Date("11/01/2020 00:00:00");now.setTime(now.getTime()+250),days=(now-a)/1e3/60/60/24,dnum=Math.floor(days),hours=(now-a)/1e3/60/60-24*dnum,hnum=Math.floor(hours),String(hnum).length==1&&(hnum="0"+hnum),minutes=(now-a)/1e3/60-24*60*dnum-60*hnum,mnum=Math.floor(minutes),String(mnum).length==1&&(mnum="0"+mnum),seconds=(now-a)/1e3-24*60*60*dnum-60*60*hnum-60*mnum,snum=Math.round(seconds),String(snum).length==1&&(snum="0"+snum),document.getElementById("timeDate").innerHTML="🚀 for&nbsp"+dnum+"&nbspdays",document.getElementById("times").innerHTML=hnum+"&nbsphr&nbsp"+mnum+"&nbspmin&nbsp"+snum+"&nbspsec"}setInterval("createtime()",250)</script>
+</div>
 <span>&copy; 2020-2021 <a href=https://wonghaotian.com/>wonghaotian.com</a></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=https://beian.miit.gov.cn/ target=_blank>皖ICP备018839号</a>
