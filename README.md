@@ -5,5 +5,7 @@
 
 ![Haotian Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiiaan&count_private=true&hide_title=true&show_icons=true)
 
+![Haotian Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiiaan&hide=contribs,prs&count_private=true&hide_title=true&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiiaan&layout=compact&card_width=445)
 
