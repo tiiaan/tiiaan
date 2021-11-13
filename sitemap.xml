@@ -2,14 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wonghaotian.com/archives/</loc>
-  </url><url>
     <loc>https://wonghaotian.com/categories/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
   </url><url>
-    <loc>https://wonghaotian.com/search/</loc>
+    <loc>https://wonghaotian.com/tags/isomap/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/tags/lle/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/categories/machine-learning/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/tags/manifold/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/post/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
   </url><url>
     <loc>https://wonghaotian.com/tags/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
   </url><url>
     <loc>https://wonghaotian.com/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/tags/unsupervised/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/post/20211110-manifold/</loc>
+    <lastmod>2021-11-10T12:23:42+08:00</lastmod>
+  </url><url>
+    <loc>https://wonghaotian.com/archives/</loc>
+  </url><url>
+    <loc>https://wonghaotian.com/search/</loc>
   </url>
 </urlset>

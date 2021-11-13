@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lazy Learning on tiiaan</title>
+    <link>https://wonghaotian.com/tags/lazy-learning/</link>
+    <description>Recent content in Lazy Learning on tiiaan</description>
+    <image>
+      <url>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Nov 2021 12:09:59 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/tags/lazy-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>k近邻方法与懒惰学习</title>
+      <link>https://wonghaotian.com/post/20211110-knn/</link>
+      <pubDate>Wed, 10 Nov 2021 12:09:59 +0800</pubDate>
+      
+      <guid>https://wonghaotian.com/post/20211110-knn/</guid>
+      <description>k近邻学习(kNN)的主要思想是在训练集中依据某种距离度量找出与测试样本最靠近的k个“邻居”，根据这些“邻居”的信息来对样本点进行预测，是一种典型的懒惰学习策略，训练阶段只储存样本而不处理。</description>
+    </item>
+    
+  </channel>
+</rss>

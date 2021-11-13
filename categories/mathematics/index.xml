@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mathematics on tiiaan</title>
+    <link>https://wonghaotian.com/categories/mathematics/</link>
+    <description>Recent content in Mathematics on tiiaan</description>
+    <image>
+      <url>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Nov 2021 14:27:43 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/categories/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大规模线性方程组的定常迭代法</title>
+      <link>https://wonghaotian.com/post/20211111-steady-iter/</link>
+      <pubDate>Thu, 11 Nov 2021 14:27:43 +0800</pubDate>
+      
+      <guid>https://wonghaotian.com/post/20211111-steady-iter/</guid>
+      <description>迭代法是目前求解大规模稀疏线性方程组的主要方法之一，可分为定常迭代和不定常迭代。定常迭代法的迭代矩阵保持不变，经典算法包括雅可比(Jacobi)迭代、高斯赛德尔(Gauss-Seidel)迭代、超松弛(SOR)迭代。</description>
+    </item>
+    
+    <item>
+      <title>理解李群和李代数：从流形的角度</title>
+      <link>https://wonghaotian.com/post/20211110-liegroup/</link>
+      <pubDate>Wed, 10 Nov 2021 16:22:03 +0800</pubDate>
+      
+      <guid>https://wonghaotian.com/post/20211110-liegroup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
