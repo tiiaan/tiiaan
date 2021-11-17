@@ -9,15 +9,15 @@
       <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://wonghaotian.com/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>About</title>
-      <link>https://wonghaotian.com/about/</link>
+      <title>Info</title>
+      <link>https://wonghaotian.com/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wonghaotian.com/about/</guid>
-      <description>about</description>
+      <guid>https://wonghaotian.com/info/</guid>
+      <description>info</description>
     </item>
-    
     
     
   </channel>
