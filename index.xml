@@ -8,7 +8,17 @@
       <url>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://wonghaotian.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Jan 2022 02:30:01 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeetCode 刷题笔记</title>
+      <link>https://wonghaotian.com/post/algorithms/leetcode/</link>
+      <pubDate>Sat, 01 Jan 2022 02:30:01 +0800</pubDate>
+      
+      <guid>https://wonghaotian.com/post/algorithms/leetcode/</guid>
+      <description>必须很努力才能看起来毫不费力</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://wonghaotian.com/about/</link>
@@ -20,12 +30,12 @@
     
     
     <item>
-      <title>Playground</title>
-      <link>https://wonghaotian.com/playground/</link>
+      <title>Collection</title>
+      <link>https://wonghaotian.com/collection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wonghaotian.com/playground/</guid>
-      <description>playground</description>
+      <guid>https://wonghaotian.com/collection/</guid>
+      <description>collection</description>
     </item>
     
     <item>
