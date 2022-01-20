@@ -8,16 +8,6 @@
       <url>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wonghaotian.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 02:30:01 +0800</lastBuildDate><atom:link href="https://wonghaotian.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Algorithms</title>
-      <link>https://wonghaotian.com/categories/algorithms/</link>
-      <pubDate>Sat, 01 Jan 2022 02:30:01 +0800</pubDate>
-      
-      <guid>https://wonghaotian.com/categories/algorithms/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://wonghaotian.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
