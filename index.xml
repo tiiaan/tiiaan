@@ -20,12 +20,21 @@
     
     
     <item>
-      <title>Collection</title>
-      <link>https://wonghaotian.com/collection/</link>
+      <title>Channel</title>
+      <link>https://wonghaotian.com/channel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wonghaotian.com/collection/</guid>
-      <description>collection</description>
+      <guid>https://wonghaotian.com/channel/</guid>
+      <description>channel</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://wonghaotian.com/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wonghaotian.com/gallery/</guid>
+      <description>gallery</description>
     </item>
     
     <item>
