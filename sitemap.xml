@@ -8,8 +8,6 @@
   </url><url>
     <loc>https://wonghaotian.com/categories/</loc>
   </url><url>
-    <loc>https://wonghaotian.com/channel/</loc>
-  </url><url>
     <loc>https://wonghaotian.com/gallery/</loc>
   </url><url>
     <loc>https://wonghaotian.com/projects/</loc>
@@ -19,5 +17,7 @@
     <loc>https://wonghaotian.com/tags/</loc>
   </url><url>
     <loc>https://wonghaotian.com/</loc>
+  </url><url>
+    <loc>https://wonghaotian.com/wiki/</loc>
   </url>
 </urlset>
