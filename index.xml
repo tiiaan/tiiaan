@@ -20,6 +20,15 @@
     
     
     <item>
+      <title>Channel</title>
+      <link>https://wonghaotian.com/channel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wonghaotian.com/channel/</guid>
+      <description>channel</description>
+    </item>
+    
+    <item>
       <title>Gallery</title>
       <link>https://wonghaotian.com/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,15 +46,6 @@
       <description>projects</description>
     </item>
     
-    
-    <item>
-      <title>Wiki</title>
-      <link>https://wonghaotian.com/wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wonghaotian.com/wiki/</guid>
-      <description>wiki</description>
-    </item>
     
   </channel>
 </rss>
