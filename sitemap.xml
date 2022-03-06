@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wonghaotian.com/gallery/abcdefg/</loc>
+  </url><url>
     <loc>https://wonghaotian.com/about/</loc>
   </url><url>
     <loc>https://wonghaotian.com/archives/</loc>
@@ -9,6 +11,8 @@
     <loc>https://wonghaotian.com/categories/</loc>
   </url><url>
     <loc>https://wonghaotian.com/channel/</loc>
+  </url><url>
+    <loc>https://wonghaotian.com/gallery/</loc>
   </url><url>
     <loc>https://wonghaotian.com/gallery/</loc>
   </url><url>
